@@ -1,0 +1,7 @@
+{
+    "configuration": "PartitionScheme=huge_app,FlashMode=dio,FlashFreq=80,UploadSpeed=512000,DebugLevel=none",
+    "board": "esp32:esp32:esp32wrover",
+    "output": "output",
+    "sketch": "SmallDesktopDisplay.ino",
+    "port": "COM4"
+}
